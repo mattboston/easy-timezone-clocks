@@ -3,7 +3,7 @@
 A macOS menu bar app for tracking multiple time zones at a glance.
 
 - **Website:** https://shields.tv/easy-timezone-clocks/
-- **IOS App:** https://tbd
+- **IOS App:** TBD
 
 ## Bugs & Support
 
